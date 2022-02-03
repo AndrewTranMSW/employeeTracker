@@ -1,9 +1,6 @@
 # Emmployee Tracker
 
-### Github : https://github.com/AndrewTranMSW/expressNoteTaker
-
-### Deployed Application (Heroku) : https://secret-temple-21796.herokuapp.com/
-
+### Github : https://github.com/AndrewTranMSW/employeeTracker
 
 ### Walkthrough video : https://youtu.be/d9a3sLy97JY
 
