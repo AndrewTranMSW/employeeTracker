@@ -16,3 +16,12 @@ CREATE TABLE role (
     INDEX dep_ind (department_id),
     CONSTRAINT fk_department FOREIGN KEY (department_id) REFERENCES department(id) ON DELETE CASCADE
 );
+
+CREATE TABLE employee (
+    id INTEGER AUTO_INCREMENT,
+    first_name VARCHAR(30),
+    last_name VARCHAR(30),
+    role_id INTEGER(10),
+    manager_id INTEGER(10),
+    PRIMARY KEY (id)
+);
