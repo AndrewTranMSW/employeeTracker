@@ -1,4 +1,4 @@
-# Emmployee Tracker
+# Employee Tracker
 
 ### Github : https://github.com/AndrewTranMSW/employeeTracker
 
